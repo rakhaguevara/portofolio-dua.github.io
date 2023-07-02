@@ -1,0 +1,5 @@
+1. code mengandung framework  = >   BOOTSRAP 5.3
+                                    SWIPER.JS
+
+2. menggunakan icons dari boxicons.com
+3. menggunakan google fonts 
