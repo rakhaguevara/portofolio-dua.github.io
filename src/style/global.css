@@ -4,8 +4,8 @@
 /*  VARIABLE  */
 
 :root {
-  --primary-color: #fb6a27;
-  --dark-color: #0f0f0f;
+  --primary-color: #176b87;
+  --dark-color: #001c30;
   --gray-color: gray;
 
   --h1-font-size: 40px;
@@ -119,7 +119,7 @@ section .section-title {
 
 .skills-section,
 footer {
-  background-color: #030304;
+  background-color: #001c30;
 }
 
 .skills-section .progress-bar {
@@ -131,4 +131,13 @@ footer {
 
 .skills-section .progress-bar .progress {
   background-color: var(--primary-color);
+}
+
+/* Certificate luicense */
+.certificate {
+  color: black;
+}
+
+.certificate:hover {
+  color: blue;
 }
